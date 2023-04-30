@@ -1,0 +1,12 @@
+        *************** Beginning of data ************************************* 
+0001.00 C                   Z-ADD     1             S                           
+0002.00 C     S             DSPLY                                               
+0003.00 C                   CALL      'PGM1'        PPGM1                       
+0004.00 C     S             DSPLY                                               
+0005.00 C                   SETON                                        LR     
+0006.00 C                                                                       
+0007.00 C     *INZSR        BEGSR                                               
+0008.00 C     PPGM1         PLIST                                               
+0009.00 C                   PARM                    S                 2 0       
+0010.00 C                   ENDSR                                               
+        ****************** End of data **************************************** 
